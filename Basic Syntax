@@ -1,0 +1,86 @@
+class CodeChef
+{
+	public static void main (String[] args)
+	{
+		System.out.println(999);
+	}
+}
+
+................................
+class CodeChef {
+  public static void main(String[] args) {
+    System.out.print("First Output");
+    System.out.println("Second Output");
+    System.out.print("Third Output");
+  }
+}
+.................................
+class CodeChef {
+  public static void main(String[] args) {
+    // replace _ with correct value
+    System.out.println("Chef");
+    System.out.print("chefina");
+  }
+}
+...................................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// replace the _ with correct value
+		System.out.print("Hello Chef");
+	}
+}
+
+................
+
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		System.out.println(999);
+	}
+}
+............................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		System.out.print(21 +40);
+	}
+}
+............................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		
+        System.out.print((3 + 4) + " " + (2 + 1));
+	}
+}
+
+...............................
+class CodeChef{
+  public static void main(String[] args) {
+    // replace the _ with correct value
+    System.out.println(8* 9);
+    System.out.print((100 + 200) *2);
+  } 
+}
+...................................
+class CodeChef {
+  public static void main(String[] args) {
+    // replace the _ with correct value
+    System.out.println(9 - 2);
+    System.out.print( 30 / 5);
+  }
+}
+...................................
+class CodeChef {
+  public static void main(String[] args) {
+    System.out.println(11*13);
+    System.out.print(2 * (13 + 11));
+  }
+}
