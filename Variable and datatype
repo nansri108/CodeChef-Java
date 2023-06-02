@@ -1,0 +1,105 @@
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+		int length = 30;
+		int width = 20;
+		System.out.println(length * width);
+		System.out.println(2 * (length + width));
+        width = 15; //Replace the _ with the correct value.
+        System.out.println(length * width);
+		System.out.print(2 * (length + width));
+	}
+}
+.......................................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+        int Number = 19;
+        System.out.print(Number);
+	}
+}
+
+......................................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		double pi = 3.14;
+		double radius = 8.9 ;
+		double area = pi * radius *radius;
+		System.out.println("The Area of the given Circle is - ");
+		System.out.print(area);
+        
+	}
+}
+........................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// Declare 'a' as a char and assign it the value C
+		char a = 'C';
+		
+		// Declare 'b' as a String and assign it the value Chef
+		String b ="Chef";
+		System.out.print(a);
+		System.out.print(b);
+	}
+}
+.................................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		boolean x = true;
+		boolean y = false;
+		System.out.println(x);
+		System.out.print(y);
+	}
+}
+............................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		int a = 23;
+		int b = 20;
+		System.out.print(a+b);
+	}
+}
+.................................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		int s = 14 ;
+        int area = s * s ;
+        int cost = 7 * area ;
+        System.out.println(area);
+        System.out.print(cost + "$");
+	}
+}
+.............................
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		// your code goes here
+		int a = -50;
+		int b = 40;
+		int sum = 40+(-50);
+		int product = -50*40;
+		int quotient = -50/40;
+		System.out.println(sum);
+		System.out.println(product);	
+		System.out.print(quotient);	
+	}
+}
